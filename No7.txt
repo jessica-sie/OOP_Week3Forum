@@ -1,0 +1,29 @@
+a)
+a = 4
+b = 12
+result = 8
+
+b)
+a = 6
+b = 2
+result = 4
+
+c)
+a =  5
+b = 3
+result = -13
+
+d)
+a = 3
+b = 11
+result = 3
+
+e) 
+a = 3
+b = 4
+result = 0
+
+f)
+s = "jjj"
+t = "xxx"
+result = jjjjjjxxx
